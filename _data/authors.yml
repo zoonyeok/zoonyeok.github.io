@@ -59,8 +59,8 @@ vvs:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:             ryubb09@gmail.com
-    rss:               https://zoonyeok.github.io/feed.xml
+    email:            ryubb09@gmail.com
+    rss:              https://zoonyeok.github.io/feed.xml
 
 # Another author
 author2:
