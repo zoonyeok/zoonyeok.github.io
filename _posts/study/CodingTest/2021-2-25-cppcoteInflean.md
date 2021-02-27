@@ -2,7 +2,7 @@
 layout: post
 title:  "[문제유형] 다시 풀어볼 문제"
 subtitle: false
-categories: study
+categories: study/CodingTest
 tags: codingtest
 comments: true
 ---
