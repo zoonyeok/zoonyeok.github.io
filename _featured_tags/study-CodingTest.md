@@ -3,6 +3,6 @@ layout: tag-blog
 title: CodingTest
 slug: codingtest
 category: study
-menu: false
+menu: true
 order: 8
 ---
