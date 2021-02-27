@@ -2,7 +2,7 @@
 layout: tag-blog
 title: OS
 slug: os
-category: study/os
+category: study
 menu: false
 order: 6
 ---
